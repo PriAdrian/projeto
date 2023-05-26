@@ -1,0 +1,21 @@
+.batata{
+    display: flex;
+    justify-content: space-between;
+
+}
+body{ 
+   background-image:url(Assets/Backgronud.png);
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+}
+.batata p{
+color: white;
+font-family: "montserrat", "lato";
+text-transform: uppercase;
+
+}
+
+.Foto_perfil
+{align-items: center;
+}
